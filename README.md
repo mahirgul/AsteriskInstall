@@ -8,14 +8,9 @@
 ![OPUS](https://img.shields.io/badge/Codec-OPUS-orange)
 ![SRTP](https://img.shields.io/badge/Security-SRTP-red)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey)
-
-**A comprehensive, production-ready Asterisk PBX installation script with modern codec support**
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Rocky Linux 9/10](https://img.shields.io/badge/Rocky%20Linux-9%2F10-10B981)](https://rockylinux.org)
-[![Asterisk 22](https://img.shields.io/badge/Asterisk-22.0+-007EC5)](https://www.asterisk.org)
 [![Bash](https://img.shields.io/badge/Bash-5.0+-4EAA25)](https://www.gnu.org/software/bash/)
 
+**A comprehensive, production-ready Asterisk PBX installation script with modern codec support**
 </div>
 
 ## ✨ Features
