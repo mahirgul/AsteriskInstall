@@ -2,8 +2,14 @@
 
 <div align="center">
 
-![Asterisk Logo](https://www.asterisk.org/wp-content/uploads/2016/04/Asterisk-Logo-Color-1024x357.png)
-![Rocky Linux](https://rockylinux.org/wp-content/uploads/2021/05/rocky-linux.png)
+# 🚀 Asterisk 22 Safe Installer for Rocky Linux 9 / 10
+
+![Asterisk](https://img.shields.io/badge/Asterisk-22-brightgreen)
+![Rocky Linux](https://img.shields.io/badge/Rocky%20Linux-9%20%7C%2010-blue)
+![WebRTC](https://img.shields.io/badge/WebRTC-Enabled-purple)
+![OPUS](https://img.shields.io/badge/Codec-OPUS-orange)
+![SRTP](https://img.shields.io/badge/Security-SRTP-red)
+![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
 **A comprehensive, production-ready Asterisk PBX installation script with modern codec support**
 
