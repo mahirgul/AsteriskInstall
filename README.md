@@ -52,8 +52,11 @@
 # Download the script
 curl -O https://raw.githubusercontent.com/yourusername/asterisk-installer/main/install-asterisk.sh
 
+# Change the password in the pbxSetup.sh 
+  DEFAULT_PASS="Change_ME_Please"
+
 # Make it executable
-chmod +x install-asterisk.sh
+chmod +x pbxSetup.sh
 
 # Run as root
-sudo ./install-asterisk.sh
+sudo ./pbxSetup.sh
