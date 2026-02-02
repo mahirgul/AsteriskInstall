@@ -41,7 +41,7 @@
 ## 🚀 Quick Start
 
 ### Prerequisites
-- **Rocky Linux 9 or 10** (fresh installation recommended)
+- **Rocky Linux 10** (fresh installation recommended)
 - **Root or sudo privileges**
 - **Minimum 2GB RAM, 20GB disk space**
 - **Active internet connection**
