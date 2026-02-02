@@ -1,8 +1,6 @@
-# 🚀 Asterisk 22 Installer for Rocky Linux 9/10
-
 <div align="center">
 
-# 🚀 Asterisk 22 Safe Installer for Rocky Linux 9 / 10
+# 🚀 Asterisk 22 Safe Installer for Rocky Linux 10
 
 ![Asterisk](https://img.shields.io/badge/Asterisk-22-brightgreen)
 ![Rocky Linux](https://img.shields.io/badge/Rocky%20Linux-9%20%7C%2010-blue)
