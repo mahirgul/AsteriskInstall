@@ -3,7 +3,7 @@
 # 🚀 Asterisk 22 Safe Installer for Rocky Linux 10
 
 ![Asterisk](https://img.shields.io/badge/Asterisk-22-brightgreen)
-![Rocky Linux](https://img.shields.io/badge/Rocky%20Linux-9%20%7C%2010-blue)
+![Rocky Linux](https://img.shields.io/badge/Rocky%20Linux-10-blue)
 ![WebRTC](https://img.shields.io/badge/WebRTC-Enabled-purple)
 ![OPUS](https://img.shields.io/badge/Codec-OPUS-orange)
 ![SRTP](https://img.shields.io/badge/Security-SRTP-red)
